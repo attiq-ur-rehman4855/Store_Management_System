@@ -1,8 +1,3 @@
-Aapki README file ka data bilkul solid hai, bas ismein kuch Markdown format ki choti moti galti thi (jaise code blocks ka close na hona aur links ka format).
-
-Maine isko bilkul perfect standard format mein set kar diya hai. Aap niche diye gaye poore box ke code ko **aik hi baar mein copy** karein aur apni `README.md` file ke andar purana sab saaf karke paste kar dein:
-
-```markdown
 # 🏪 Store Management System  
 
 A comprehensive **Full-Stack Store Management System** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). This system follows a strict **MVC (Model-View-Controller) architecture** to manage products, track sales, and authenticate users efficiently.
