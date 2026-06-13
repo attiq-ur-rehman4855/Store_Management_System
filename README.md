@@ -97,5 +97,3 @@ npm run dev
 * **Attiq Ur Rehman** - [GitHub Profile](https://github.com/attiq-ur-rehman4855)
 
 ```
-
----
