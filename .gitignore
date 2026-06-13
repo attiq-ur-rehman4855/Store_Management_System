@@ -1,0 +1,15 @@
+# Block Backend Dependencies & Secrets
+backend/node_modules/
+backend/.env
+
+# Block Frontend Dependencies & Secrets
+frontend/node_modules/
+frontend/.env.local
+frontend/dist/
+frontend/dist-ssr/
+
+# Logs and System Files
+*.log
+.DS_Store
+.vscode/
+.idea/
